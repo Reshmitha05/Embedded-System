@@ -1,0 +1,1 @@
+A lightweight, embedded-style Linux system monitor using **C++** and **Bash scripting**. This project simulates diagnostic logging on embedded devices — logging system uptime, CPU/memory usage, user activity, and IP address snapshots.
